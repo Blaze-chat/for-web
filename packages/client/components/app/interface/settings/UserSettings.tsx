@@ -333,7 +333,7 @@ const Config: SettingsConfiguration<{ server: Server }> = {
               title: <Trans>What's New</Trans>,
             },
             {
-              href: "https://github.com/stoatchat",
+              href: "https://github.com/Blaze-chat",
               icon: <MdMemory {...iconSize(20)} />,
               title: <Trans>Source Code</Trans>,
             },
@@ -343,9 +343,9 @@ const Config: SettingsConfiguration<{ server: Server }> = {
               title: <Trans>Advanced</Trans>,
             },
             {
-              href: "https://ko-fi.com/stoatchat",
+              href: "https://hypechat.org/invite/dnCWE4Cr",
               icon: <MdCoffee {...iconSize(20)} />,
-              title: <Trans>Donate</Trans>,
+              title: <Trans>Community</Trans>,
             },
             {
               id: "logout",

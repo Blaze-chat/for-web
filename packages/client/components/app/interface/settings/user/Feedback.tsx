@@ -88,7 +88,7 @@ export function Feedback() {
           <Match when={showLoungeButton && isInLounge}>
             <CategoryButton
               onClick={() => {
-                navigate("/server/01F7ZSBSFHQ8TA81725KQCSDDP");
+                navigate("/server/01KYG5ZKEZYWW32VRG59S1VVKD/channel/01KYJWBB562WV10Z3V3YGTAEK6");
                 pop();
               }}
               description={
@@ -99,7 +99,7 @@ export function Feedback() {
               }
               icon={<MdGroups3 />}
             >
-              <Trans>Go to the Stoat Lounge</Trans>
+              <Trans>Go to the Hype Lounge</Trans>
             </CategoryButton>
           </Match>
           <Match when={showLoungeButton && !isInLounge}>
@@ -118,7 +118,7 @@ export function Feedback() {
               }
               icon={<MdGroups3 />}
             >
-              <Trans>Join the Stoat Lounge</Trans>
+              <Trans>Join the Hype Lounge</Trans>
             </CategoryButton>
           </Match>
         </Switch>
