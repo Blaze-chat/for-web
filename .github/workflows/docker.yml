@@ -16,7 +16,9 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository_owner }}/${{ github.event.repository.name }}
+  IMAGE_ORG: ${{ toLower(github.repository_owner) }}
+  IMAGE_REPO: ${{ toLower(github.event.repository.name) }}
+  IMAGE_NAME: ${{ env.IMAGE_ORG }}/${{ env.IMAGE_REPO }}
 
 jobs:
   build:
