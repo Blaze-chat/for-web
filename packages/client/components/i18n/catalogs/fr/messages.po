@@ -815,6 +815,10 @@ msgstr "Code"
 msgid "Coming soon! 👀"
 msgstr ""
 
+#: components/app/interface/settings/UserSettings.tsx
+msgid "Community"
+msgstr ""
+
 #: components/app/interface/settings/user/Account.tsx
 msgid "Configure a way to get back into your account in case your 2FA is lost"
 msgstr "Configurer un moyen de récupérer l'accès à votre compte en cas de perte de votre authentification à deux facteurs (2FA)"
@@ -1266,8 +1270,8 @@ msgid "Don't show this again"
 msgstr ""
 
 #: components/app/interface/settings/UserSettings.tsx
-msgid "Donate"
-msgstr "Faire un don"
+#~ msgid "Donate"
+#~ msgstr "Faire un don"
 
 #: src/interface/Home.tsx
 msgid "Donate to Stoat"
@@ -1572,8 +1576,11 @@ msgstr "Retourner à la page de connexion"
 msgid "Go to account settings to edit your username"
 msgstr "Accédez aux paramètres du compte pour modifier votre nom d'utilisateur"
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Go to the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Go to the Stoat Lounge"
 msgstr "Se rendre sur le serveur officiel de Stoat"
 
@@ -1749,8 +1756,11 @@ msgstr "Rejoindre un serveur"
 #~ msgid "Join call"
 #~ msgstr ""
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Join the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Join the Stoat Lounge"
 msgstr "Rejoindre le serveur officiel de Stoat"
 

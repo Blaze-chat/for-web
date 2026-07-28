@@ -815,6 +815,10 @@ msgstr "Koodi"
 msgid "Coming soon! 👀"
 msgstr ""
 
+#: components/app/interface/settings/UserSettings.tsx
+msgid "Community"
+msgstr ""
+
 #: components/app/interface/settings/user/Account.tsx
 msgid "Configure a way to get back into your account in case your 2FA is lost"
 msgstr "Aseta tapa päästä takaisin tilillesi, jos kaksivaiheinen tunnistautuminen ei onnistu."
@@ -1266,8 +1270,8 @@ msgid "Don't show this again"
 msgstr ""
 
 #: components/app/interface/settings/UserSettings.tsx
-msgid "Donate"
-msgstr "Lahjoita"
+#~ msgid "Donate"
+#~ msgstr "Lahjoita"
 
 #: src/interface/Home.tsx
 msgid "Donate to Stoat"
@@ -1572,8 +1576,11 @@ msgstr "Palaa kirjautumiseen"
 msgid "Go to account settings to edit your username"
 msgstr "Mene omiin tiliasetuksiin vaihtamaan käyttäjänimesi"
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Go to the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Go to the Stoat Lounge"
 msgstr "Mene Stoatin Loungeen"
 
@@ -1749,8 +1756,11 @@ msgstr "Liity palvelimelle"
 #~ msgid "Join call"
 #~ msgstr ""
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Join the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Join the Stoat Lounge"
 msgstr "Liity Stoat Loungeen"
 
