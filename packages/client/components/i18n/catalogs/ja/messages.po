@@ -815,6 +815,10 @@ msgstr "招待コード"
 msgid "Coming soon! 👀"
 msgstr ""
 
+#: components/app/interface/settings/UserSettings.tsx
+msgid "Community"
+msgstr ""
+
 #: components/app/interface/settings/user/Account.tsx
 msgid "Configure a way to get back into your account in case your 2FA is lost"
 msgstr "設定しておけば、二要素認証の手段を失ってもアカウントを復旧できます"
@@ -1266,8 +1270,8 @@ msgid "Don't show this again"
 msgstr ""
 
 #: components/app/interface/settings/UserSettings.tsx
-msgid "Donate"
-msgstr "寄付"
+#~ msgid "Donate"
+#~ msgstr "寄付"
 
 #: src/interface/Home.tsx
 msgid "Donate to Stoat"
@@ -1572,8 +1576,11 @@ msgstr "ログイン画面に戻る"
 msgid "Go to account settings to edit your username"
 msgstr "ユーザー名はアカウント設定で変更できます"
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Go to the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Go to the Stoat Lounge"
 msgstr "Stoat Loungeを開く"
 
@@ -1749,8 +1756,11 @@ msgstr "サーバーに参加"
 #~ msgid "Join call"
 #~ msgstr ""
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Join the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Join the Stoat Lounge"
 msgstr "Stoatラウンジに参加"
 

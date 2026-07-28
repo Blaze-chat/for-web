@@ -815,6 +815,10 @@ msgstr "Link"
 msgid "Coming soon! 👀"
 msgstr ""
 
+#: components/app/interface/settings/UserSettings.tsx
+msgid "Community"
+msgstr ""
+
 #: components/app/interface/settings/user/Account.tsx
 msgid "Configure a way to get back into your account in case your 2FA is lost"
 msgstr "Nastavte si spôsob prístupu do účtu v prípade straty prístupu do Vášho systému dvojfaktorovej autentifikácie"
@@ -1266,8 +1270,8 @@ msgid "Don't show this again"
 msgstr ""
 
 #: components/app/interface/settings/UserSettings.tsx
-msgid "Donate"
-msgstr "Prispieť"
+#~ msgid "Donate"
+#~ msgstr "Prispieť"
 
 #: src/interface/Home.tsx
 msgid "Donate to Stoat"
@@ -1572,8 +1576,11 @@ msgstr "Späť na prihlásenie"
 msgid "Go to account settings to edit your username"
 msgstr "Choďte do nastavení účtu pre zmenu vášho používateľského mena"
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Go to the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Go to the Stoat Lounge"
 msgstr "Ísť do Spoločenskej miestnosti Stoat-a"
 
@@ -1749,8 +1756,11 @@ msgstr "Vojsť do servera"
 #~ msgid "Join call"
 #~ msgstr ""
 
-#: src/interface/Home.tsx
 #: components/app/interface/settings/user/Feedback.tsx
+msgid "Join the Hype Lounge"
+msgstr ""
+
+#: src/interface/Home.tsx
 msgid "Join the Stoat Lounge"
 msgstr "Vojsť do Spoločenskej miestnosti Stoat-a"
 
